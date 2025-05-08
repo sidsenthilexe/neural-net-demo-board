@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "neural_net_demo_board.kicad_prl",
+    "filename": "rp2040-logic-demo-board.kicad_prl",
     "version": 3
   },
   "project": {
